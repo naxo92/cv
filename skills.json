@@ -1,0 +1,23 @@
+{
+  "frontend": [
+    "Angular (2–18)",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3/Sass",
+    "RxJS"
+  ],
+  "backend_tools": [
+    "Node.js",
+    "PHP (básico)",
+    "RESTful APIs",
+    "Git",
+    "npm/yarn"
+  ],
+  "extra": [
+    "Jasmine",
+    "Karma",
+    "Scrum",
+    "Adobe Experience Manager (AEM)"
+  ]
+}
