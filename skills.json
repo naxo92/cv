@@ -2,14 +2,15 @@
   "frontend": [
     "Angular",
     "TypeScript",
-    "JavaScript (ES6+)",
+    "JavaScript",
     "HTML5",
     "CSS3/Sass",
-    "RxJS"
+    "RxJS",
+    "NgRx"
   ],
   "backend_tools": [
     "Node.js",
-    "PHP (básico)",
+    "PHP",
     "RESTful APIs",
     "Git",
     "npm/yarn"
