@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Grupo Orenes",
+    "role": "Desarrollador Web",
+    "dateRange": "12/2022 – 02/2025",
+    "tasks": [
+      "Construcción/mantenimiento de 5+ webs corporativas con Angular, Node.js y PHP.",
+      "Migración exitosa de componentes legacy a Angular moderno."
+    ]
+  },
+  {
+    "company": "Capgemini",
+    "role": "Frontend Developer",
+    "dateRange": "10/2021 – 12/2022",
+    "tasks": [
+      "Desarrollé una app empresarial con Angular 8 y Adobe Experience Manager.",
+      "Optimización de carga con lazy loading."
+    ]
+  },
+  {
+    "company": "Oesía",
+    "role": "Frontend Developer",
+    "dateRange": "11/2020 – 09/2021",
+    "tasks": [
+      "Refactorización de código legacy para cumplir WCAG 2.1.",
+      "Automatización de pipelines CI/CD."
+    ]
+  },
+  {
+    "company": "Movisat",
+    "role": "Frontend Developer",
+    "dateRange": "02/2020 – 09/2020",
+    "tasks": [
+      "Liderazgo de un equipo de 3 desarrolladores.",
+      "Prácticas de testing con Jasmine/Karma, cobertura del 80%."
+    ]
+  },
+  {
+    "company": "Everis",
+    "role": "Frontend Developer",
+    "dateRange": "06/2018 – 11/2019",
+    "tasks": [
+      "Migración de 3 apps legacy a Angular 4."
+    ]
+  }
+]
